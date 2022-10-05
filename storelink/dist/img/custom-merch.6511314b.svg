@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-539.000000, -2788.000000)">
+            <g id="Group-7" transform="translate(540.000000, 2789.000000)">
+                <circle id="Oval-Copy-6" stroke="#27C950" cx="15" cy="15" r="15"></circle>
+                <g id="Group-6" transform="translate(4.500000, 5.000000)" stroke="#27C950" stroke-linecap="square">
+                    <path d="M10.5,-9.9475983e-14 L10.5,20" id="Line"></path>
+                    <path d="M10.5,-2.84217094e-14 L10.5,20" id="Line" transform="translate(10.500000, 10.000000) rotate(90.000000) translate(-10.500000, -10.000000) "></path>
+                    <path d="M10.5,3.48238799e-13 L10.5,20" id="Line" transform="translate(10.500000, 10.000000) rotate(135.000000) translate(-10.500000, -10.000000) "></path>
+                    <path d="M10.5,5.51399204e-14 L10.5,20" id="Line" transform="translate(10.500000, 10.000000) rotate(225.000000) translate(-10.500000, -10.000000) "></path>
+                </g>
+                <circle id="Oval" fill="#000000" cx="15" cy="15" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
